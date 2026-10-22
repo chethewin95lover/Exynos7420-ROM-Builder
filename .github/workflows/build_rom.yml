@@ -1,1 +1,4 @@
+name: Build Custom ROM for Exynos 7420
 
+on:
+  workflow_dispatch: # This adds the manual "Run workflow" button!
